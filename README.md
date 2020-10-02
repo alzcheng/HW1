@@ -16,10 +16,10 @@ Below are the summary of changes that were made from the original code:
 
 * Made the Search Engine Optimization link work
 * Class hero is basically an image, put the styling to CSS code 
-* Class "content" is "<article>", and those inside it are "<segments>"
-* Class "benefits" is "<aside>" and those inside it are "<segments>"
-* Changed "<div>" to "<header>"
-* Changed "<div>" to "<footer>"
+* Class "content" is an "article", and those inside it are "segments>"
+* Class "benefits" is an "aside" and those inside it are "segments"
+* Changed "div" to "header"
+* Changed "div" to "footer"
 
 ### For CSS code: 
 
