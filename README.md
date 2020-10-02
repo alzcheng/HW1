@@ -39,3 +39,5 @@ Below are the summary of changes that were made from the original code:
 2. Learned to add links within the webpage 
 3. Learned to use HTML5 semantics 
 
+## Link to finished product website
+[Link to finished product](https://alzcheng.github.io/HW1/)
