@@ -32,6 +32,11 @@ Below are the summary of changes that were made from the original code:
   * Benefit-lead
   * Benefit-brand
   * Benefit-cost
+  
+## Screenshots of Refractored Webpage
+![Top part of website](/assets/images/finished_product_screenshots/screenshot_1.png)
+![Middle part of website](/assets/images/finished_product_screenshots/screenshot_2.png)
+![Bottom part of website](/assets/images/finished_product_screenshots/screenshot_3.png)
 
 ## Learnings 
 
