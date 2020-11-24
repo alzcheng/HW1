@@ -1,4 +1,4 @@
-# HW1 - Code Refractor
+# Code Refractor
 
 ## Description
 
